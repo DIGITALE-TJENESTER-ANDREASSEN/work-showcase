@@ -1,2 +1,3 @@
 # dev
-Dev environment of whatever
+
+Soon got the react dev env setup
